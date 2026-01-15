@@ -1,0 +1,8 @@
+num_1 = input("Enter first number : ")
+num_2 = input("Enter second number : ")
+int_1 = int(num_1)
+int_2 = int(num_2)
+print("Addition: ", int_1 + int_2)
+print("Subtraction: ", int_1 - int_2)
+print("Multiplication: ", int_1 * int_2)
+print("Division: ", int_1 / int_2)
